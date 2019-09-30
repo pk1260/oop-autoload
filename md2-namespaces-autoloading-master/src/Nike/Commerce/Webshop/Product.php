@@ -15,7 +15,7 @@ class Product
 
     public function getName()
     {
-        return 'Ik ben een product uit de webshop van Nike: name = ' . $this->name . ' en prijs = € ' . $this->price . '<br />';
+        return 'Ik ben een product uit de webshop van Nike: name = ' . $this->name . ' en prijs = € ' . $this->price . '<br/>';
     }
 
 }
