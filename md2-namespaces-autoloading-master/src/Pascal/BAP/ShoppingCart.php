@@ -1,6 +1,6 @@
 <?php
-
-class ProductCatalogue {
+namespace Pascal\BAP;
+class ShoppingCart {
 
 	public function __construct() {
 

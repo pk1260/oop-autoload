@@ -1,5 +1,5 @@
 <?php
-
+namespace Nike\Commerce\Webshop;
 class Product
 {
 

@@ -23,4 +23,4 @@ function autoload_class($class)
     }
 }
 
-//spl_autoload_register('autoload_class');
+spl_autoload_register('autoload_class');

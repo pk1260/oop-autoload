@@ -1,5 +1,5 @@
 <?php
-
+namespace Pascal\BAP;
 class Product
 {
 
