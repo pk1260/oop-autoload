@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ab7e653-d079-46e5-920a-e76c0a45d8e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/md2-namespaces-autoloading-master/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/md2-namespaces-autoloading-master/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/md2-namespaces-autoloading-master/src/Nike/Commerce/Webshop/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/md2-namespaces-autoloading-master/src/Nike/Commerce/Webshop/Product.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/md2-namespaces-autoloading-master/src/Pascal/BAP/ProductCatalogue.php" beforeDir="false" afterPath="$PROJECT_DIR$/md2-namespaces-autoloading-master/src/Pascal/BAP/ProductCatalogue.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/md2-namespaces-autoloading-master/src/Pascal/BAP/ShoppingCart.php" beforeDir="false" afterPath="$PROJECT_DIR$/md2-namespaces-autoloading-master/src/Pascal/BAP/ShoppingCart.php" afterDir="false" />
-    </list>
+    <list default="true" id="9ab7e653-d079-46e5-920a-e76c0a45d8e5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,12 +143,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569844241226</updated>
-      <workItem from="1569844243265" duration="2716000" />
+      <workItem from="1569844243265" duration="2878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2716000" />
+    <option name="totallyTimeSpent" value="2878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
